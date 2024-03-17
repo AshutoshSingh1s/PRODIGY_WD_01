@@ -1,4 +1,4 @@
-# RODIGY TASK O1 WEB DEV INTERNSHIP
+# PRODIGY TASK O1 WEB DEV INTERNSHIP
 
 # Navigation Menu with Side Panel
 
